@@ -12,7 +12,7 @@
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/joao-carmassi/followers-and-unfollowers
+git clone https://github.com/joao-carmassi-studies/followers-and-unfollowers
 cd followers-and-unfollowers
 npm install
 ```
